@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @candyhy91
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning python, SQL, cooking, etc.
+- 🌱 I’m currently learning python, SQL, data viz, etc.
 - 💞️ I’m looking to collaborate on coding/programing.
 
 
